@@ -125,6 +125,27 @@ body{
 }
 
 /* section four */
+.section-4{
+    margin-top: 8%;
+}
+.section1-4{
+    display: flex;
+
+}
+.section-4-left{
+    width: 40%;
+    padding: 25px;
+    margin-left: 10%;
+}
+
+.section-4-right{
+    width: 40%;
+    margin-left: 5%;
+}
+.section-4-right img{
+    width: 80%;
+}
+
 
 
 
