@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Taviraj', serif;    
+}
+
+.first-section{
+    display: flex;
+}
+.half-width{
+    margin-top: 30px;
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+    margin-left: 50px;
+}
+.first-heading{
+    border-left: 4px solid;
+    border-image: linear-gradient(blue, rgb(128, 51, 105)) ;
+    border-image-slice: 1;
+    border-image: 40px;
+
+}
+ .first-heading h1{
+    font-size: 55px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 10px;
+
+}
+.mission-color{
+    color:rgb(12, 167, 187);
+}
+.left-heading{
+    padding: 30px;
+    margin-top: 80px;
+    margin-left: 90px;
+    margin-right: 60px;
+}
+.section-paragraph{
+    margin-bottom: 40px;
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 10px 25px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+}
+.explore{
+    margin-top: 30px;
+}
