@@ -49,5 +49,45 @@ body{
     border-radius: 5px;
 }
 .explore{
-    margin-top: 30px;
+    margin-top: 30px;}
+    /* second section */
+.second-heading{
+    font-size: 55px;
+    text-align: center;
 }
+.second-section{
+    display: flex;
+    
+}
+.second-section-child{
+  
+    width: 20%;
+    border-radius: 10px;
+    
+}
+    .ilustar-img{
+        width: 50%;
+        margin-left: 70px;
+        margin-top: 20px;
+    }
+
+.mission{
+    background-color: rgb(243, 217, 217);
+    padding: 17px;
+    margin-left: 150px;
+}
+.vission{
+    background-color: rgb(230, 243, 217);
+    padding: 5px;
+    margin-left: 60px;
+}
+.goals{
+    background-color: rgb(229, 217, 243);
+    padding: 17px;
+    margin-left: 50px;
+}
+.child-3{
+    text-align: center;
+}
+
+/* third section */
