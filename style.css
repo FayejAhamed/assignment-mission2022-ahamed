@@ -145,7 +145,31 @@ body{
 .section-4-right img{
     width: 80%;
 }
+/* 5th section */
+.final-section{
+    width: 60%;
+    margin-left: 20%;
+}
 
+/* footer */
 
+footer{
+    background-color: black;
+    margin-bottom: 0;
+    padding: 20px;
+    margin-top: 10%;
+}
+.footer-h{
+    color: white;
+    text-align: center;
+
+}
+.footer-span{
+    color: rgb(95, 95, 238);
+}
+.footer-p{
+    text-align: center;
+    color: white;
+}
 
 
